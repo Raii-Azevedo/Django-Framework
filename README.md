@@ -7,7 +7,7 @@
 
 ## Tutorial
 - Tutorial de aplicação do Django Framework
-   [CLIQUE AQUI](https://github.com/Raii-Azevedo/Django-Framework/blob/main/DJANGO%20TUTORIAL.pdf)
+   - [CLIQUE AQUI](https://github.com/Raii-Azevedo/Django-Framework/blob/main/DJANGO%20TUTORIAL.pdf)
 
 ## Projetos
 ### 1. Projeto 1 - Básico
