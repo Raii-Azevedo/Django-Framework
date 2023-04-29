@@ -1,6 +1,6 @@
 # Django-Framework
 
-<a href="url"><img src=" " align="center" height="150" width="300" ></a>
+<a href="url"><img src="https://github.com/Raii-Azevedo/Django-Framework/blob/main/python-django.png" align="center" height="150" width="300" ></a>
  
 ## Descrição
 - Estudo de HTML, CSS e JavaScript para a aplicação do Django Framework.
