@@ -27,12 +27,12 @@
 
 ## Tecnologia
  - Python
- - DJango Framework
+ - Django Framework
  - HTML
  - CSS
  - Bootstrap 4
  - JavaScript
- - PostgreeSQL
+ - PostgreSQL
  
 ### Importante
     - COMANDOS IMPORTANTES:
