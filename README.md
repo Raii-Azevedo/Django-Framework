@@ -13,7 +13,7 @@
 ### 1. Projeto 1 - Básico
   - Descrição
   ![]()
-  - [CLIQUE AQUI]()
+  - [CLIQUE AQUI](https://github.com/Raii-Azevedo/DjangoProj)
   
 ### 2. Projeto 2 - Intermediário
   - Descrição
